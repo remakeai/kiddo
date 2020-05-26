@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="companion",
-    version="0.0.1",
+    version="0.0.2",
     author="Remake AI",
     author_email="iliao@remake.ai",
     description="Companion robot",
